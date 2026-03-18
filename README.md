@@ -19,8 +19,10 @@ It is especially useful when working with smart telescopes such as Seestar or si
 ## 📥 Download
 
 Get the latest version of the app here:
-👉 [Download APK](PUT_YOUR_RELEASE_LINK_HERE)
+👉 [Download APK]((https://github.com/willianlol1/CometTracker/releases/tag/v1.2))
 
+For Apple users: you can use Comet tracker using the ExpoGo APP through this link: 
+https://comet-ephemeris--williansouza13.replit.app
 ---
 
 ## 🧠 How it works
